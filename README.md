@@ -190,9 +190,9 @@ java -cp "out;lib/*" smarthome.Launcher
 
 ## 📬 Contact
 
-**`[YOUR FULL NAME]`**
-II Year, `[YOUR DEPARTMENT]`
-`[YOUR COLLEGE NAME]`
+**`[Priyan R]`**
+II Year, `[IT]`
+`[Thiagarajar College of Engineering]`
 
 GitHub: [@priyanr15](https://github.com/priyanr15)
 
