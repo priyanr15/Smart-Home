@@ -1,0 +1,6 @@
+out/
+bin/
+.vscode/
+db.properties
+MySQL/
+mysql-connector-j-26.10.0/
